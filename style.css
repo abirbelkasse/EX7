@@ -1,0 +1,135 @@
+canvas {
+	padding :0;/*propiete CSS qui indique la marge interieur d'un bloc*/
+	margin: auto; /*propiete CSS qui indique la marge exterieur d'un bloc*/
+	display: block;
+	width: 525px;
+	height: 525px;
+	position: relative;
+	top:10px;
+	bottom:0;
+	left:30px;
+	right:0;
+	border:solid 2px black;
+
+	
+}
+
+#b{
+	width:392px;
+	height:60px;
+	margin:0px auto;
+	position: relative;
+}
+#pauserestart{
+	top: 610px;
+	left:451px;
+	position:absolute;
+	width: 525px;
+	height: 25px;
+	display: block;
+	margin: auto;
+	
+	
+}
+#score{
+	top: 400px;
+	left:250px;
+	position:absolute;
+	font-size : 20px;
+	color: white;
+	
+}
+#valeurscore{
+	top: 400px;
+	left:350px;
+	position:absolute;
+	font-size : 25px;
+	color:white;
+}
+#etiqutteT{
+	top: 300px;
+	left:1000px;
+	position:absolute;
+	font-size : 20px;
+	
+}
+#valeurTime{
+	top: 100px;
+	left:245px;
+	position:absolute;
+	font-size : 10px;
+}
+#mango{
+	top: 150px;
+	left:350px;
+	position:absolute;
+	
+	
+}
+#mangocounter{
+	top: 150px;
+	left:300px;
+	position:absolute;
+	font-size : 25px;
+	color:white;
+}
+#avoca{
+	top: 199px;
+	left:350px;
+	position:absolute;
+	
+	
+}
+#avocacounter{
+	top: 199px;
+	left:300px;
+	position:absolute;
+	font-size : 25px;
+	color:white;
+}
+#bananes{
+	top: 250px;
+	left:350px;
+	position:absolute;
+	
+	
+}
+#bananescounter{
+	top: 250px;
+	left:300px;
+	position:absolute;
+	font-size : 25px;
+	color:white;
+}
+#orange{
+	top: 299px;
+	left:350px;
+	position:absolute;
+	
+	
+}
+#orangecounter{
+	top: 299px;
+	left:300px;
+	position:absolute;
+	font-size : 25px;
+	color:white;
+}
+#lemon{
+	top: 350px;
+	left:350px;
+	position:absolute;
+	
+	
+}
+#lemoncounter{
+	top: 350px;
+	left:300px;
+	position:absolute;
+	font-size : 25px;
+	color:white;
+}
+.arrondie{
+	
+	border-radius:7px;
+}
